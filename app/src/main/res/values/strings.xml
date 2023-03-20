@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">labbb2</string>
+
+
+    <string name="lorem">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Maecenas ut est posuere, congue mauris eget,
+        ornare quam. Aenean a justo metus. Aenean consectetur sodales nisl quis iaculis.
+        Suspendisse enim mauris, facilisis tempus consequat sit amet, convallis quis ligula.
+        Fusce velit sapien, auctor ut tellus nec, dignissim hendrerit lorem. Proin lobortis
+        ornare felis nec molestie. Sed tempor quam venenatis, lacinia tellus non, dictum sem.
+        Nulla bibendum, orci ut accumsan venenatis, urna ex porttitor odio, sed tristique
+        mauris risus quis libero.consectetur adipiscing elit. Maecenas ut est posuere, congue mauris eget,
+        ornare quam. Aenean a justo metus. Aenean consectetur sodales nisl quis iaculis.
+        Suspendisse enim mauris, facilisis tempus consequat sit amet, convallis quis ligula.
+        Fusce velit sapien, auctor ut tellus nec, dignissim hendrerit lorem. Proin lobortis
+  </string>
+    <string name="more">If you want to know more about when the zombies are about to attack, enter your email</string>
+
+</resources>
