@@ -48,6 +48,8 @@ class FunctionalityFragment : Fragment() {
             it.release()
         }
         mediaPlayer.start()
+        viewModel.add()
+
     }
 
     override fun onDestroyView() {
